@@ -17,4 +17,19 @@ public class Recorder : MonoBehaviour {
 	void Update () {
 		
 	}
+
+	void RecordVideo() 
+	{
+		throw new NotImplementedException();
+	}
+
+	void Screenshot(float scale) 
+	{
+		throw new NotImplementedException();
+	}
+
+	void RecordTurnaround() 
+	{
+		throw new NotImplementedException();
+	}
 }
